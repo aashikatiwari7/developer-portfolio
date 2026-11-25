@@ -19,7 +19,7 @@ _Updated: 25 November 2026_
 ## freeCodeCamp
 - Profile URL : https://www.freecodecamp.org/aashikatiwari7
 - Current track : Responsive Web Design
-- Steps completed : 0 / approx. 300 hours for full certification
+- Steps completed : 25 / approx. 300 hours for full certification
 
 ---
 
